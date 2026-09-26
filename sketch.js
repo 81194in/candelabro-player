@@ -8,11 +8,12 @@
 // los símbolos de destellos que aparecen arriba llevan a diferentes links;
 // la página de genius de candelabro, el instagram de la banda y la playlist del
 // álbum oficial publicado en youtube.
-// lo único malo es que no funcionan como links externos ya que (según claude.ai)
+// lo único malo es que no funcionan como links externos ya que
 // el editor online de  p5.js funciona con iframe, y los sitios enlazados
 // tienen una política de seguridad que impiden que el sitio se abra dentro de iframes.
 // intenté subir el proyecto a GitHub Pages para no tener este problema, pero fue un
 // poco difícil, así que por mientras lo dejaré así :]
+// ACTUALIZACIÓN: 26/09/2026 lo logré muajajajajaja
 
 // convertí todas las canciones del álbum publicado en youtube para
 // descargarlas como .mp3 (¿es piratería si pongo el link arriba? upsi).
@@ -27,12 +28,6 @@
 // ambas imagenes editadas las subí a este drive:
 // https://drive.google.com/drive/folders/1navgmpkBstzsAUVFMnM0DQYqbiRkRRDY?usp=sharing
 
-// como no soy pro computina se me hizo muy difícil hacer muchas cosas así que le pedí
-// -bastante- ayuda a claude.ai para que me ayude a resolver algunos problemas, dejaré
-// los links de mis chats con la ia.
-// https://claude.ai/share/2b4c5042-1bd3-4ffe-bdf7-d6bfb9ac12f4
-// https://claude.ai/share/017143c3-a90e-4f00-8855-689c707cd537
-// https://claude.ai/share/ab2874de-a7de-4768-99f3-7b61119c4938
 
 // --- VARIABLES GLOBALES ---
 
